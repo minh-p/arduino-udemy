@@ -1,0 +1,3 @@
+#+title: README
+
+Just some basic project files that I learned from udemy course: https://uci.udemy.com/course/arduino-for-beginners-complete-course/learn/lecture/25478094#notes
